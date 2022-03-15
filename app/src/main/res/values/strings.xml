@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fragDyn2</string>
+    <string name="btntxt">Swap fragments</string>
+
+</resources>
